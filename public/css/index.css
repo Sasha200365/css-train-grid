@@ -17,11 +17,11 @@
 .task4 .item2 {
   grid-row: 5/6;
 }
-.task4 .item4 {
-  grid-row: 4/5;
-}
 .task4 .item3 {
   grid-row: 6/7;
+}
+.task4 .item4 {
+  grid-row: 4/5;
 }
 
 .task5 {
